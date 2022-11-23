@@ -1,1 +1,1 @@
-s is a printf Project and its going to show us all the secretes of printf in C  programming.
+n this project we are going to look at  all the secretes of printf .Here it works with functions, precisions, flags, and sizes.
